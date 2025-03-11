@@ -13,3 +13,5 @@ I quickly looked up how to format an ssh command and crafted 'ssh ctf-player@tit
 
 This led me to the flag picoCTF{s3cur3_c0nn3ct10n_65a7a106} and as can be seen this is correct.
 <img width="1275" alt="picoCTFSuperShellSS#3" src="https://github.com/user-attachments/assets/46d0fea9-86cd-43ab-a425-f03ef4e76362" />
+
+**Flag: picoCTF{s3cur3_c0nn3ct10n_65a7a106}**
