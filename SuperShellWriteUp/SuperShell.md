@@ -1,4 +1,4 @@
-# Super SSH by Jeffery John -- (Walkthrough by Colin Hefel)
+# Super SSH by Jeffery John -- (Walkthrough by Colin Hefel) Easy
 
 1) To start the pico challenge I needed to start the pico instance. 
 <img width="1281" alt="picoCTFSuperShellSS#1" src="https://github.com/user-attachments/assets/323f8680-f5ea-4ee7-b28c-b1bc05e5fa64" />
