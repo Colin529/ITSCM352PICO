@@ -1,0 +1,11 @@
+Super SSH by Jeffery John -- (Walkthrough by Colin Hefel)
+
+To start the pico challenge I needed to start the pico instance. 
+
+The description after launching the pico instance gives us all the information to ssh in.
+Description
+Using a Secure Shell (SSH) is going to be pretty important. Can you ssh as ctf-player to titan.picoctf.net at port 54595 to get the flag? You'll also need the password 6abf4a82. If asked, accept the fingerprint with yes.
+
+I quickly looked up how to format an ssh command and crafted 'ssh ctf-player@titan.picoctf.net -p 54367'. 
+
+This led me to the flag picoCTF{s3cur3_c0nn3ct10n_65a7a106} and as can be seen this ic correct.
